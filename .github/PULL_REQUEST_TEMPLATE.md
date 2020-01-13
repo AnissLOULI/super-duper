@@ -1,4 +1,4 @@
 ---
 name : Bug
-about :
+about : test issue template
 ---
